@@ -1,7 +1,7 @@
 # LiveSync Subscribe Publish kit
 
 The Dockerfile and assets for Trying [LiveSync Subscribe Publish](https://github.com/vrtmrz/livesync-subscribe-publish)
-
+(req: buildx - apt install docker-buildx-plugin)
 ## How to try
 ```sh
 $ git clone https://github.com/AveryVeilfaire/livesync-subscribe-publish-kit/
