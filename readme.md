@@ -5,6 +5,7 @@ The Dockerfile and assets for Trying [LiveSync Subscribe Publish](https://github
 ## How to try
 ```sh
 $ git clone https://github.com/AveryVeilfaire/livesync-subscribe-publish-kit/
+$ cd livesync-subscribe-publish-kit
 $ cp sample.env .env
 $ vi .env
 $ ./test.sh
